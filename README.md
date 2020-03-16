@@ -1,4 +1,3 @@
-# gdb-learn
 
 ### What is Debugger?
 In general, debugger is utility that runs target program in controlled environment where you can control execution of program and see the state of program when program is paused.  
@@ -44,3 +43,6 @@ If you want to directly go to some function.
 _Info Local_: Print all the variable of local in that fuction in that stack.
 
 
+Here is the walkthrough of some basic commands:
+
+![](./assets/gdb.gif)
