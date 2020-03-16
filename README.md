@@ -3,8 +3,8 @@
 In general, debugger is utility that runs target program in controlled environment where you can control execution of program and see the state of program when program is paused.  
 `GDB is such debugger, which is used to debug C/C++ programs.`
 
-We can tell debugger when to pause a program by setting breakpoints.
-To set a breakpoint
+We can tell debugger when to pause a program by setting breakpoints.  
+
 `$ gdb a.out`
 
 ### Some Basic Commands of GDB  
