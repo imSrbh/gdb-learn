@@ -1,4 +1,3 @@
-# gdb-learn
 
 ### What is Debugger?
 In general, debugger is utility that runs target program in controlled environment where you can control execution of program and see the state of program when program is paused.  
